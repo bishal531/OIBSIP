@@ -1,0 +1,4 @@
+Algorithm,mean_reciprocal_rank,precision_at_5,avg_query_time,training_time
+Trie,0.85,0.92,2.34,0.15
+N-gram,0.78,0.88,4.56,0.45
+Frequency,0.72,0.81,1.23,0.08

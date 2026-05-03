@@ -1,0 +1,28 @@
+# Development Dependencies
+
+# Notebook development
+ipywidgets==8.0.4
+nbconvert==7.3.1
+nbformat==5.7.0
+
+# Code quality and formatting
+black==23.7.0
+flake8==6.0.0
+pylint==2.17.4
+mypy==1.4.1
+isort==5.12.0
+
+# Documentation
+sphinx==7.0.1
+sphinx-rtd-theme==1.2.2
+
+# Profiling
+memory-profiler==0.60.1
+line-profiler==4.0.3
+
+# Debugging
+ipdb==0.13.13
+pdbpp==0.10.3
+
+# Notebook kernel
+ipykernel==6.25.0
